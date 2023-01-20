@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="algoritmia">
+      <change afterPath="$PROJECT_DIR$/src/Probando/com/IfNumber09999.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Probando/com/Ifmayormenos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probando/com/Ifmayormenos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ifmayormenos">
+  <component name="RunManager" selected="Application.IfNumber09999">
     <configuration name="HorasPagas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Probando.com.HorasPagas" />
       <module name="vacationa-esudy" />
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ifconditionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.Ifconditionals" />
+    <configuration name="IfNumber09999" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.IfNumber09999" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IfNumber09999" />
         <item itemvalue="Application.Ifmayormenos" />
         <item itemvalue="Application.Ifimparnumbers" />
         <item itemvalue="Application.HorasPagas" />
         <item itemvalue="Application.IfDescuento" />
-        <item itemvalue="Application.Ifconditionals" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +141,7 @@
       <workItem from="1673985385817" duration="3180000" />
       <workItem from="1673993424046" duration="10586000" />
       <workItem from="1674093973843" duration="3826000" />
-      <workItem from="1674166203379" duration="8240000" />
+      <workItem from="1674166203379" duration="8947000" />
     </task>
     <task id="LOCAL-00001" summary="algoritmia">
       <created>1674189794765</created>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674189794765</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="algoritmia">
+      <created>1674192398080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674192398080</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

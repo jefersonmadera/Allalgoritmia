@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Probando/com/Ifimparnumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Probando/com/Ifmayormenos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Probando/com/Seleccion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Probando/com/elevacionesalcuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Probando/com/formulacuadratica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vacationa-esudy.iml" afterDir="false" />
+    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="algoritmia">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Probando/com/Ifmayormenos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probando/com/Ifmayormenos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +40,8 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -59,7 +50,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ifimparnumbers">
+  <component name="RunManager" selected="Application.Ifmayormenos">
     <configuration name="HorasPagas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Probando.com.HorasPagas" />
       <module name="vacationa-esudy" />
@@ -112,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="formulacuadratica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.formulacuadratica" />
+    <configuration name="Ifmayormenos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.Ifmayormenos" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ifmayormenos" />
         <item itemvalue="Application.Ifimparnumbers" />
         <item itemvalue="Application.HorasPagas" />
         <item itemvalue="Application.IfDescuento" />
         <item itemvalue="Application.Ifconditionals" />
-        <item itemvalue="Application.formulacuadratica" />
       </list>
     </recent_temporary>
   </component>
@@ -150,8 +141,16 @@
       <workItem from="1673985385817" duration="3180000" />
       <workItem from="1673993424046" duration="10586000" />
       <workItem from="1674093973843" duration="3826000" />
-      <workItem from="1674166203379" duration="5404000" />
+      <workItem from="1674166203379" duration="8240000" />
     </task>
+    <task id="LOCAL-00001" summary="algoritmia">
+      <created>1674189794765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674189794765</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,5 +166,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="algoritmia" />
+    <option name="LAST_COMMIT_MESSAGE" value="algoritmia" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

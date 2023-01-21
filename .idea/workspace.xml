@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="algoritmia">
-      <change afterPath="$PROJECT_DIR$/src/Probando/com/CalculatorSwich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Probando/com/NotaIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Probando/com/ExperimentandoFinal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +50,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.NotaIf">
+  <component name="RunManager" selected="Application.ExperimentandoFinal">
     <configuration name="CalculatorSwich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Probando.com.CalculatorSwich" />
       <module name="vacationa-esudy" />
@@ -65,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfNumber09999" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.IfNumber09999" />
+    <configuration name="ExperimentandoFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.ExperimentandoFinal" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ifimparnumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.Ifimparnumbers" />
+    <configuration name="IfNumber09999" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.IfNumber09999" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExperimentandoFinal" />
         <item itemvalue="Application.NotaIf" />
         <item itemvalue="Application.CalculatorSwich" />
         <item itemvalue="Application.IfNumber09999" />
         <item itemvalue="Application.Ifmayormenos" />
-        <item itemvalue="Application.Ifimparnumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +143,7 @@
       <workItem from="1674093973843" duration="3826000" />
       <workItem from="1674166203379" duration="9027000" />
       <workItem from="1674264311125" duration="4122000" />
-      <workItem from="1674317852315" duration="1503000" />
+      <workItem from="1674317852315" duration="5663000" />
     </task>
     <task id="LOCAL-00001" summary="algoritmia">
       <created>1674189794765</created>
@@ -167,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674193094865</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="algoritmia">
+      <created>1674319702427</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674319702427</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

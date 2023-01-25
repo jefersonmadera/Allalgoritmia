@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="algoritmia">
-      <change afterPath="$PROJECT_DIR$/src/Probando/com/parimparloops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Probando/com/tecleenumbersloops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Probando/com/adivinanumberloops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Probando/com/adivinanumbers2loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Probando/com/tecleesumnumbersloops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Probando/com/positivonegativoloops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probando/com/positivonegativoloops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +52,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.tecleenumbersloops">
-    <configuration name="Iejerciciodeloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.Iejerciciodeloops" />
+  <component name="RunManager" selected="Application.tecleesumnumbersloops">
+    <configuration name="adivinanumberloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.adivinanumberloops" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loopsexorciesedowhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.loopsexorciesedowhile" />
+    <configuration name="adivinanumbers2loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.adivinanumbers2loops" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -92,19 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="positivonegativoloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.positivonegativoloops" />
-      <module name="vacationa-esudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Probando.com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="tecleenumbersloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Probando.com.tecleenumbersloops" />
       <module name="vacationa-esudy" />
@@ -118,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tecleesumnumbersloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.tecleesumnumbersloops" />
+      <module name="vacationa-esudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Probando.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tecleesumnumbersloops" />
+        <item itemvalue="Application.adivinanumbers2loops" />
+        <item itemvalue="Application.adivinanumberloops" />
         <item itemvalue="Application.tecleenumbersloops" />
         <item itemvalue="Application.parimparloops" />
-        <item itemvalue="Application.positivonegativoloops" />
-        <item itemvalue="Application.loopsexorciesedowhile" />
-        <item itemvalue="Application.Iejerciciodeloops" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,8 @@
       <workItem from="1674317852315" duration="13531000" />
       <workItem from="1674418172287" duration="52000" />
       <workItem from="1674587096942" duration="3289000" />
-      <workItem from="1674614760673" duration="3625000" />
+      <workItem from="1674614760673" duration="10120000" />
+      <workItem from="1674677210013" duration="1404000" />
     </task>
     <task id="LOCAL-00001" summary="algoritmia">
       <created>1674189794765</created>
@@ -199,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674616470827</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="algoritmia">
+      <created>1674618694220</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674618694220</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

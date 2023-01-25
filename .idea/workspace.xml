@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="algoritmia">
-      <change afterPath="$PROJECT_DIR$/src/Probando/com/ProductoNumbersImpares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Probando/com/FactorialdeNUmber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Probando/com/ProductoNumbersImpares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probando/com/ProductoNumbersImpares.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +148,7 @@
       <workItem from="1674418172287" duration="52000" />
       <workItem from="1674587096942" duration="3289000" />
       <workItem from="1674614760673" duration="10120000" />
-      <workItem from="1674677210013" duration="7501000" />
+      <workItem from="1674677210013" duration="8425000" />
     </task>
     <task id="LOCAL-00001" summary="algoritmia">
       <created>1674189794765</created>
@@ -240,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674683704106</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="algoritmia">
+      <created>1674685407907</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674685407907</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

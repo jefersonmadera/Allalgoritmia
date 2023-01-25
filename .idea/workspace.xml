@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="algoritmia">
-      <change afterPath="$PROJECT_DIR$/src/Probando/com/simpleconversionKg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Probando/com/Iejerciciodeloops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Probando/com/cicloWhile1er.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Probando/com/loopsexorciesedowhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Probando/com/positivonegativoloops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Probando/com/simpleconversionKg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probando/com/simpleconversionKg.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +54,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.simpleconversionKg">
-    <configuration name="CalculatorSwich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.CalculatorSwich" />
+  <component name="RunManager" selected="Application.positivonegativoloops">
+    <configuration name="Iejerciciodeloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.Iejerciciodeloops" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExperimentandoFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.ExperimentandoFinal" />
+    <configuration name="cicloWhile1er" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.cicloWhile1er" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfNumber09999" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.IfNumber09999" />
+    <configuration name="loopsexorciesedowhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.loopsexorciesedowhile" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotaIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.NotaIf" />
+    <configuration name="positivonegativoloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.positivonegativoloops" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.positivonegativoloops" />
+        <item itemvalue="Application.loopsexorciesedowhile" />
+        <item itemvalue="Application.Iejerciciodeloops" />
+        <item itemvalue="Application.cicloWhile1er" />
         <item itemvalue="Application.simpleconversionKg" />
-        <item itemvalue="Application.ExperimentandoFinal" />
-        <item itemvalue="Application.NotaIf" />
-        <item itemvalue="Application.CalculatorSwich" />
-        <item itemvalue="Application.IfNumber09999" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +147,10 @@
       <workItem from="1674093973843" duration="3826000" />
       <workItem from="1674166203379" duration="9027000" />
       <workItem from="1674264311125" duration="4122000" />
-      <workItem from="1674317852315" duration="7267000" />
+      <workItem from="1674317852315" duration="13531000" />
+      <workItem from="1674418172287" duration="52000" />
+      <workItem from="1674587096942" duration="3289000" />
+      <workItem from="1674614760673" duration="1491000" />
     </task>
     <task id="LOCAL-00001" summary="algoritmia">
       <created>1674189794765</created>
@@ -180,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674337632335</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="algoritmia">
+      <created>1674339065629</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674339065629</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

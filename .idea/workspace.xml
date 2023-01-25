@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="algoritmia">
-      <change afterPath="$PROJECT_DIR$/src/Probando/com/PedirnumN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Probando/com/del100alceroloops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.PedirnumN">
+  <component name="RunManager" selected="Application.del100alceroloops">
     <configuration name="PedirnumN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Probando.com.PedirnumN" />
       <module name="vacationa-esudy" />
@@ -64,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="adivinanumberloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.adivinanumberloops" />
+    <configuration name="adivinanumbers2loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.adivinanumbers2loops" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="adivinanumbers2loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.adivinanumbers2loops" />
+    <configuration name="del100alceroloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.del100alceroloops" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.del100alceroloops" />
         <item itemvalue="Application.PedirnumN" />
         <item itemvalue="Application.medianumbersciclo" />
         <item itemvalue="Application.tecleesumnumbersloops" />
         <item itemvalue="Application.adivinanumbers2loops" />
-        <item itemvalue="Application.adivinanumberloops" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,7 @@
       <workItem from="1674418172287" duration="52000" />
       <workItem from="1674587096942" duration="3289000" />
       <workItem from="1674614760673" duration="10120000" />
-      <workItem from="1674677210013" duration="4104000" />
+      <workItem from="1674677210013" duration="4917000" />
     </task>
     <task id="LOCAL-00001" summary="algoritmia">
       <created>1674189794765</created>
@@ -219,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674681615143</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="algoritmia">
+      <created>1674682009845</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674682009845</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="estudiantes_promedio">
-      <change afterPath="$PROJECT_DIR$/src/Probando/com/tablademultiplicar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Probando/com/facturaciondesinloops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,22 +50,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.tablademultiplicar">
+  <component name="RunManager" selected="Application.facturaciondesinloops">
     <configuration name="Edadesestaturasloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Probando.com.Edadesestaturasloops" />
-      <module name="vacationa-esudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Probando.com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FactorialdeNUmber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.FactorialdeNUmber" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -103,6 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="facturaciondesinloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.facturaciondesinloops" />
+      <module name="vacationa-esudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Probando.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="tablademultiplicar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Probando.com.tablademultiplicar" />
       <module name="vacationa-esudy" />
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.facturaciondesinloops" />
         <item itemvalue="Application.tablademultiplicar" />
         <item itemvalue="Application.Edadesestaturasloops" />
         <item itemvalue="Application.diezsueldosloops" />
         <item itemvalue="Application.MediaPositivos_negativosceros" />
-        <item itemvalue="Application.FactorialdeNUmber" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +147,8 @@
       <workItem from="1674418172287" duration="52000" />
       <workItem from="1674587096942" duration="3289000" />
       <workItem from="1674614760673" duration="10120000" />
-      <workItem from="1674677210013" duration="19521000" />
+      <workItem from="1674677210013" duration="21409000" />
+      <workItem from="1674737744483" duration="4278000" />
     </task>
     <task id="LOCAL-00001" summary="algoritmia">
       <created>1674189794765</created>
@@ -275,7 +276,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674697823969</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="estudiantes_promedio">
+      <created>1674699354881</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1674699354881</updated>
+    </task>
+    <task id="LOCAL-00020" summary="estudiantes_promedio">
+      <created>1674699485425</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1674699485425</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +310,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="algoritmia" />
     <MESSAGE value="Sueldos" />
+    <MESSAGE value="numeroNotable" />
     <MESSAGE value="estudiantes_promedio" />
     <option name="LAST_COMMIT_MESSAGE" value="estudiantes_promedio" />
   </component>

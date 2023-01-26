@@ -10,7 +10,10 @@ public class FactorialdeNUmber {
         int facto= 1;
         for (int i= 1;i<=numero;i++){
             facto*=i;
-        }
+            System.out.print(" x" + i);
 
+        }
+        System.out.println("el factorial de " + numero + " = "+ facto);
+ //este programa sirve para sacar el factorial de un numero dado por el usuario
     }
 }

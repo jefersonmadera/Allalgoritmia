@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="algoritmia">
-      <change afterPath="$PROJECT_DIR$/src/Probando/com/MediaPositivos_negativosceros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Probando/com/diezsueldosloops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Probando/com/FactorialdeNUmber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probando/com/FactorialdeNUmber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.MediaPositivos_negativosceros">
+  <component name="RunManager" selected="Application.diezsueldosloops">
     <configuration name="FactorialdeNUmber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Probando.com.FactorialdeNUmber" />
       <module name="vacationa-esudy" />
@@ -91,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="del100alceroloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.del100alceroloops" />
+    <configuration name="diezsueldosloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.diezsueldosloops" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.diezsueldosloops" />
         <item itemvalue="Application.MediaPositivos_negativosceros" />
         <item itemvalue="Application.FactorialdeNUmber" />
         <item itemvalue="Application.ProductoNumbersImpares" />
         <item itemvalue="Application.pedirfor" />
-        <item itemvalue="Application.del100alceroloops" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +147,7 @@
       <workItem from="1674418172287" duration="52000" />
       <workItem from="1674587096942" duration="3289000" />
       <workItem from="1674614760673" duration="10120000" />
-      <workItem from="1674677210013" duration="12289000" />
+      <workItem from="1674677210013" duration="13914000" />
     </task>
     <task id="LOCAL-00001" summary="algoritmia">
       <created>1674189794765</created>
@@ -255,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674686448930</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="algoritmia">
+      <created>1674691479008</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674691479008</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

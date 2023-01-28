@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="N sueldos para saber cual es el maximo">
-      <change afterPath="$PROJECT_DIR$/src/Probando/com/Nnegativosloops.java" afterDir="false" />
+    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="aprendiendo a utilizar booleans">
+      <change afterPath="$PROJECT_DIR$/src/Probando/com/Suspensobooleanfinish.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Nnegativosloops">
+  <component name="RunManager" selected="Application.Suspensobooleanfinish">
     <configuration name="Modificacionesdesinfectantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Probando.com.Modificacionesdesinfectantes" />
       <module name="vacationa-esudy" />
@@ -104,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="facturaciondesinloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.facturaciondesinloops" />
+    <configuration name="Suspensobooleanfinish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.Suspensobooleanfinish" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Suspensobooleanfinish" />
         <item itemvalue="Application.Nnegativosloops" />
         <item itemvalue="Application.Nsueldos" />
         <item itemvalue="Application.Notasreporloops" />
         <item itemvalue="Application.Modificacionesdesinfectantes" />
-        <item itemvalue="Application.facturaciondesinloops" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +151,7 @@
       <workItem from="1674677210013" duration="21409000" />
       <workItem from="1674737744483" duration="12265000" />
       <workItem from="1674869327989" duration="3356000" />
-      <workItem from="1674939428059" duration="1895000" />
+      <workItem from="1674939428059" duration="3791000" />
     </task>
     <task id="LOCAL-00001" summary="algoritmia">
       <created>1674189794765</created>
@@ -307,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674878652972</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="aprendiendo a utilizar booleans">
+      <created>1674941443884</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1674941443884</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,7 +338,8 @@
     <MESSAGE value="estudiantes_promedio" />
     <MESSAGE value="factura_venta de detergentes" />
     <MESSAGE value="N sueldos para saber cual es el maximo" />
-    <option name="LAST_COMMIT_MESSAGE" value="N sueldos para saber cual es el maximo" />
+    <MESSAGE value="aprendiendo a utilizar booleans" />
+    <option name="LAST_COMMIT_MESSAGE" value="aprendiendo a utilizar booleans" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

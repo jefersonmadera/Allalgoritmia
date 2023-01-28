@@ -11,7 +11,7 @@ public class facturaciondesinloops {
             codigo=Integer.parseInt(JOptionPane.showInputDialog("producto N°"+i+"\nCodigo"));
             litros= Integer.parseInt(JOptionPane.showInputDialog("producto N°"+i+"\nLitros"));
             precioL=Float.parseFloat(JOptionPane.showInputDialog("producto N°"+i+"\nprecio por litro"));
-            facturacioParcial=(float) (litros*precioL);
+            facturacioParcial= (litros*precioL);
             facturatotal+=facturacioParcial;
 
             if (codigo==1){

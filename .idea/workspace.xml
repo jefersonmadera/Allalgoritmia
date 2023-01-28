@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="estudiantes_promedio">
-      <change afterPath="$PROJECT_DIR$/src/Probando/com/facturaciondesinloops.java" afterDir="false" />
+    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="factura_venta de detergentes">
+      <change afterPath="$PROJECT_DIR$/src/Probando/com/Notasreporloops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Probando/com/Nsueldos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Probando/com/facturaciondesinloops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probando/com/facturaciondesinloops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -50,9 +53,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.facturaciondesinloops">
-    <configuration name="Edadesestaturasloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.Edadesestaturasloops" />
+  <component name="RunManager" selected="Application.Nsueldos">
+    <configuration name="Modificacionesdesinfectantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.Modificacionesdesinfectantes" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MediaPositivos_negativosceros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.MediaPositivos_negativosceros" />
+    <configuration name="Notasreporloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.Notasreporloops" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="diezsueldosloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.diezsueldosloops" />
+    <configuration name="Nsueldos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.Nsueldos" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Nsueldos" />
+        <item itemvalue="Application.Notasreporloops" />
+        <item itemvalue="Application.Modificacionesdesinfectantes" />
         <item itemvalue="Application.facturaciondesinloops" />
         <item itemvalue="Application.tablademultiplicar" />
-        <item itemvalue="Application.Edadesestaturasloops" />
-        <item itemvalue="Application.diezsueldosloops" />
-        <item itemvalue="Application.MediaPositivos_negativosceros" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +151,8 @@
       <workItem from="1674587096942" duration="3289000" />
       <workItem from="1674614760673" duration="10120000" />
       <workItem from="1674677210013" duration="21409000" />
-      <workItem from="1674737744483" duration="4278000" />
+      <workItem from="1674737744483" duration="12265000" />
+      <workItem from="1674869327989" duration="3237000" />
     </task>
     <task id="LOCAL-00001" summary="algoritmia">
       <created>1674189794765</created>
@@ -290,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674699485425</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="factura_venta de detergentes">
+      <created>1674750972625</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1674750972625</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,7 +323,8 @@
     <MESSAGE value="Sueldos" />
     <MESSAGE value="numeroNotable" />
     <MESSAGE value="estudiantes_promedio" />
-    <option name="LAST_COMMIT_MESSAGE" value="estudiantes_promedio" />
+    <MESSAGE value="factura_venta de detergentes" />
+    <option name="LAST_COMMIT_MESSAGE" value="factura_venta de detergentes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

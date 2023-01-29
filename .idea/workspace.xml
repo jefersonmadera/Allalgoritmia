@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="Arreglos">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/com/Anther_WayArrays.java" afterDir="false" />
+    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="Arreglosanother">
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/com/Llenarchar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Anther_WayArrays">
+  <component name="RunManager" selected="Application.Llenarchar">
     <configuration name="Anther_WayArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicios.com.Anther_WayArrays" />
       <module name="vacationa-esudy" />
@@ -65,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nnegativosloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.Nnegativosloops" />
+    <configuration name="Llenarchar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.com.Llenarchar" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Probando.com.*" />
+          <option name="PATTERN" value="Ejercicios.com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nsueldos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.Nsueldos" />
+    <configuration name="Nnegativosloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.Nnegativosloops" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Llenarchar" />
         <item itemvalue="Application.Anther_WayArrays" />
         <item itemvalue="Application.Primeraformadearreglos" />
         <item itemvalue="Application.Suspensobooleanfinish" />
         <item itemvalue="Application.Nnegativosloops" />
-        <item itemvalue="Application.Nsueldos" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +151,7 @@
       <workItem from="1674677210013" duration="21409000" />
       <workItem from="1674737744483" duration="12265000" />
       <workItem from="1674869327989" duration="3356000" />
-      <workItem from="1674939428059" duration="6189000" />
+      <workItem from="1674939428059" duration="7619000" />
     </task>
     <task id="LOCAL-00001" summary="algoritmia">
       <created>1674189794765</created>
@@ -328,7 +328,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674951484181</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Arreglosanother">
+      <created>1674952272424</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1674952272424</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,7 +362,8 @@
     <MESSAGE value="aprendiendo a utilizar booleans" />
     <MESSAGE value="suspensosultimoats" />
     <MESSAGE value="Arreglos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arreglos" />
+    <MESSAGE value="Arreglosanother" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arreglosanother" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

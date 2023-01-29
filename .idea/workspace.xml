@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="LlenarArray">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/com/LearnigForaech.java" afterDir="false" />
+    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="for each o mejorado">
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/com/Mostrar5nnumerosArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.LearnigForaech">
+  <component name="RunManager" selected="Application.Mostrar5nnumerosArray">
     <configuration name="Anther_WayArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicios.com.Anther_WayArrays" />
       <module name="vacationa-esudy" />
@@ -91,6 +91,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Mostrar5nnumerosArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.com.Mostrar5nnumerosArray" />
+      <module name="vacationa-esudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicios.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Primeraformadearreglos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicios.com.Primeraformadearreglos" />
       <module name="vacationa-esudy" />
@@ -104,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Suspensobooleanfinish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.Suspensobooleanfinish" />
-      <module name="vacationa-esudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Probando.com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mostrar5nnumerosArray" />
         <item itemvalue="Application.LearnigForaech" />
         <item itemvalue="Application.Llenarchar" />
         <item itemvalue="Application.Anther_WayArrays" />
         <item itemvalue="Application.Primeraformadearreglos" />
-        <item itemvalue="Application.Suspensobooleanfinish" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +151,7 @@
       <workItem from="1674677210013" duration="21409000" />
       <workItem from="1674737744483" duration="12265000" />
       <workItem from="1674869327989" duration="3356000" />
-      <workItem from="1674939428059" duration="8659000" />
+      <workItem from="1674939428059" duration="11220000" />
     </task>
     <task id="LOCAL-00001" summary="algoritmia">
       <created>1674189794765</created>
@@ -342,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674953881232</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="for each o mejorado">
+      <created>1674955128041</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1674955128041</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,7 +378,8 @@
     <MESSAGE value="Arreglos" />
     <MESSAGE value="Arreglosanother" />
     <MESSAGE value="LlenarArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="LlenarArray" />
+    <MESSAGE value="for each o mejorado" />
+    <option name="LAST_COMMIT_MESSAGE" value="for each o mejorado" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

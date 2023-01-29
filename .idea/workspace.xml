@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="for each o mejorado">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/com/Mostrar5nnumerosArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="imprimiendo Arrays">
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/com/ArrayInversorecorrido.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +50,22 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Mostrar5nnumerosArray">
+  <component name="RunManager" selected="Application.ArrayInversorecorrido">
     <configuration name="Anther_WayArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicios.com.Anther_WayArrays" />
+      <module name="vacationa-esudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicios.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayInversorecorrido" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.com.ArrayInversorecorrido" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -104,26 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Primeraformadearreglos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicios.com.Primeraformadearreglos" />
-      <module name="vacationa-esudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ejercicios.com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayInversorecorrido" />
         <item itemvalue="Application.Mostrar5nnumerosArray" />
         <item itemvalue="Application.LearnigForaech" />
         <item itemvalue="Application.Llenarchar" />
         <item itemvalue="Application.Anther_WayArrays" />
-        <item itemvalue="Application.Primeraformadearreglos" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +150,7 @@
       <workItem from="1674677210013" duration="21409000" />
       <workItem from="1674737744483" duration="12265000" />
       <workItem from="1674869327989" duration="3356000" />
-      <workItem from="1674939428059" duration="11220000" />
+      <workItem from="1674939428059" duration="12163000" />
     </task>
     <task id="LOCAL-00001" summary="algoritmia">
       <created>1674189794765</created>
@@ -349,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674955128041</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="imprimiendo Arrays">
+      <created>1674959193705</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1674959193705</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,7 +385,8 @@
     <MESSAGE value="Arreglosanother" />
     <MESSAGE value="LlenarArray" />
     <MESSAGE value="for each o mejorado" />
-    <option name="LAST_COMMIT_MESSAGE" value="for each o mejorado" />
+    <MESSAGE value="imprimiendo Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="imprimiendo Arrays" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

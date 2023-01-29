@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="suspensosultimoats">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/com/Arregloslerning.java" afterDir="false" />
+    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="Arreglos">
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/com/Anther_WayArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +51,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Primeraformadearreglos">
-    <configuration name="Nnegativosloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.Nnegativosloops" />
+  <component name="RunManager" selected="Application.Anther_WayArrays">
+    <configuration name="Anther_WayArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.com.Anther_WayArrays" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Probando.com.*" />
+          <option name="PATTERN" value="Ejercicios.com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Notasreporloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.Notasreporloops" />
+    <configuration name="Nnegativosloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.Nnegativosloops" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Anther_WayArrays" />
         <item itemvalue="Application.Primeraformadearreglos" />
         <item itemvalue="Application.Suspensobooleanfinish" />
         <item itemvalue="Application.Nnegativosloops" />
         <item itemvalue="Application.Nsueldos" />
-        <item itemvalue="Application.Notasreporloops" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +151,7 @@
       <workItem from="1674677210013" duration="21409000" />
       <workItem from="1674737744483" duration="12265000" />
       <workItem from="1674869327989" duration="3356000" />
-      <workItem from="1674939428059" duration="5319000" />
+      <workItem from="1674939428059" duration="6189000" />
     </task>
     <task id="LOCAL-00001" summary="algoritmia">
       <created>1674189794765</created>
@@ -321,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674943378169</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Arreglos">
+      <created>1674951484181</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1674951484181</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,7 +354,8 @@
     <MESSAGE value="N sueldos para saber cual es el maximo" />
     <MESSAGE value="aprendiendo a utilizar booleans" />
     <MESSAGE value="suspensosultimoats" />
-    <option name="LAST_COMMIT_MESSAGE" value="suspensosultimoats" />
+    <MESSAGE value="Arreglos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arreglos" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

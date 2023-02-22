@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="recorrer el array de forma invertida">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/com/promedioArrays5.java" afterDir="false" />
+    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="array con positivos y negativos">
+      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/JUnitGenerator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasePresencialP/Grafico1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/com/Coche.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicios/com/promedioArrays5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/com/promedioArrays5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Probando/com/facturaciondesinloops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probando/com/facturaciondesinloops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vacationa-esudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vacationa-esudy.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -24,8 +32,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2KIIqYy6AoiJWWOHvogjLrsi9AM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,14 +49,27 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jefer/Downloads/archivos de java/JUnitGenerator.jar&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;ChangesTree.GroupingKeys&quot;: [
@@ -51,9 +78,17 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.promedioArrays5">
-    <configuration name="ArrayInversorecorrido" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicios.com.ArrayInversorecorrido" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Ejercicios.com" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Coche">
+    <configuration name="Coche" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.com.Coche" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
@@ -65,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LearnigForaech" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicios.com.LearnigForaech" />
+    <configuration name="Grafico1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClasePresencialP.Grafico1" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ejercicios.com.*" />
+          <option name="PATTERN" value="ClasePresencialP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Llenarchar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicios.com.Llenarchar" />
+    <configuration name="facturaciondesinloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probando.com.facturaciondesinloops" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ejercicios.com.*" />
+          <option name="PATTERN" value="Probando.com.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mostrar5nnumerosArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicios.com.Mostrar5nnumerosArray" />
+    <configuration name="personal_heremcia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClasePresencialP.personal_heremcia" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ejercicios.com.*" />
+          <option name="PATTERN" value="ClasePresencialP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Coche" />
+        <item itemvalue="Application.Grafico1" />
+        <item itemvalue="Application.personal_heremcia" />
+        <item itemvalue="Application.facturaciondesinloops" />
         <item itemvalue="Application.promedioArrays5" />
-        <item itemvalue="Application.ArrayInversorecorrido" />
-        <item itemvalue="Application.Mostrar5nnumerosArray" />
-        <item itemvalue="Application.LearnigForaech" />
-        <item itemvalue="Application.Llenarchar" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +187,21 @@
       <workItem from="1674737744483" duration="12265000" />
       <workItem from="1674869327989" duration="3356000" />
       <workItem from="1674939428059" duration="12675000" />
-      <workItem from="1675020040615" duration="4002000" />
+      <workItem from="1675020040615" duration="4693000" />
+      <workItem from="1675256904819" duration="6214000" />
+      <workItem from="1675389019662" duration="2096000" />
+      <workItem from="1675429002581" duration="3175000" />
+      <workItem from="1675441713145" duration="1095000" />
+      <workItem from="1675469830398" duration="184000" />
+      <workItem from="1675470076492" duration="456000" />
+      <workItem from="1675470617444" duration="53000" />
+      <workItem from="1675470693858" duration="851000" />
+      <workItem from="1675471599781" duration="2731000" />
+      <workItem from="1676042278445" duration="3188000" />
+      <workItem from="1676467024473" duration="2397000" />
+      <workItem from="1676476076309" duration="189000" />
+      <workItem from="1676646928505" duration="3610000" />
+      <workItem from="1677029608853" duration="1791000" />
     </task>
     <task id="LOCAL-00001" summary="algoritmia">
       <created>1674189794765</created>
@@ -364,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674959589250</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="array con positivos y negativos">
+      <created>1675040580223</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1675040580223</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,7 +452,8 @@
     <MESSAGE value="for each o mejorado" />
     <MESSAGE value="imprimiendo Arrays" />
     <MESSAGE value="recorrer el array de forma invertida" />
-    <option name="LAST_COMMIT_MESSAGE" value="recorrer el array de forma invertida" />
+    <MESSAGE value="array con positivos y negativos" />
+    <option name="LAST_COMMIT_MESSAGE" value="array con positivos y negativos" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

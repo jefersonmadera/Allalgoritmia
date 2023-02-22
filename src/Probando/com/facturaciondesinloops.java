@@ -15,6 +15,7 @@ public class facturaciondesinloops {
             facturatotal+=facturacioParcial;
 
             if (codigo==1){
+                
                 articulo1+=litros;
             }
             if (facturacioParcial>600){

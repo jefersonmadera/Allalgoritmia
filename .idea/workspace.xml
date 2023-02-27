@@ -82,7 +82,7 @@
       <recent name="Ejercicios.com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MoreArraysLearning">
+  <component name="RunManager" selected="Application.ArraysLearning">
     <configuration name="ArraysLearning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClasePresencialP.ArraysLearning" />
       <module name="vacationa-esudy" />
@@ -150,8 +150,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MoreArraysLearning" />
         <item itemvalue="Application.ArraysLearning" />
+        <item itemvalue="Application.MoreArraysLearning" />
         <item itemvalue="Application.Coche" />
         <item itemvalue="Application.Grafico1" />
         <item itemvalue="Application.personal_heremcia" />

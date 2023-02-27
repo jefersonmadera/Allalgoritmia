@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="array con positivos y negativos">
-      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/JUnitGenerator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasePresencialP/Grafico1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios/com/Coche.java" afterDir="false" />
+    <list default="true" id="46e1b467-711e-4416-a43a-be60e5ed44f7" name="Changes" comment="Carro en poo">
+      <change afterPath="$PROJECT_DIR$/src/ClasePresencialP/ArraysLearning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasePresencialP/MoreArraysLearning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/com/MostrsndoOperacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/com/Operacion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicios/com/promedioArrays5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios/com/promedioArrays5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Probando/com/facturaciondesinloops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probando/com/facturaciondesinloops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vacationa-esudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vacationa-esudy.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +82,20 @@
       <recent name="Ejercicios.com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Coche">
+  <component name="RunManager" selected="Application.MoreArraysLearning">
+    <configuration name="ArraysLearning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClasePresencialP.ArraysLearning" />
+      <module name="vacationa-esudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClasePresencialP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Coche" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicios.com.Coche" />
       <module name="vacationa-esudy" />
@@ -113,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="facturaciondesinloops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Probando.com.facturaciondesinloops" />
+    <configuration name="MoreArraysLearning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClasePresencialP.MoreArraysLearning" />
       <module name="vacationa-esudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Probando.com.*" />
+          <option name="PATTERN" value="ClasePresencialP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,26 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="promedioArrays5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicios.com.promedioArrays5" />
-      <module name="vacationa-esudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ejercicios.com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoreArraysLearning" />
+        <item itemvalue="Application.ArraysLearning" />
         <item itemvalue="Application.Coche" />
         <item itemvalue="Application.Grafico1" />
         <item itemvalue="Application.personal_heremcia" />
-        <item itemvalue="Application.facturaciondesinloops" />
-        <item itemvalue="Application.promedioArrays5" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +197,10 @@
       <workItem from="1676467024473" duration="2397000" />
       <workItem from="1676476076309" duration="189000" />
       <workItem from="1676646928505" duration="3610000" />
-      <workItem from="1677029608853" duration="1791000" />
+      <workItem from="1677029608853" duration="6039000" />
+      <workItem from="1677210401218" duration="345000" />
+      <workItem from="1677243066088" duration="1605000" />
+      <workItem from="1677503500932" duration="4869000" />
     </task>
     <task id="LOCAL-00001" summary="algoritmia">
       <created>1674189794765</created>
@@ -420,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675040580223</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Carro en poo">
+      <created>1677031686865</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1677031686865</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,7 +459,8 @@
     <MESSAGE value="imprimiendo Arrays" />
     <MESSAGE value="recorrer el array de forma invertida" />
     <MESSAGE value="array con positivos y negativos" />
-    <option name="LAST_COMMIT_MESSAGE" value="array con positivos y negativos" />
+    <MESSAGE value="Carro en poo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Carro en poo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
